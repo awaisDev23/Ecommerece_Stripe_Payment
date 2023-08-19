@@ -1,0 +1,9 @@
+--> Store : Contain State of whole App
+
+--Store is only usefull when it has a Reducer(What are Reducer?... Reducer are just Funtions):
+--Methods inside Store:  1.getState(); 2.store.subscribe(//runs when state changes);
+
+---Reducer has two Parameters(State,Actions) -- Reducer return  us a State
+
+
+---Action: We Create the Action: Action is Just a JavaScript Object, Every action has type value

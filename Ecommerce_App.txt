@@ -1,0 +1,24 @@
+Pagination
+dummy api data
+Product --> 
+when click on one product it will open the card for that product will all details
+
+search box to search items 
+
+
+
+
+---Redux---
+{users or without users}
+
+
+----
+File and Folder Structure 
+
+   
+
+
+---Componet 
+Header -- Search 
+
+
